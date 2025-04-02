@@ -6,8 +6,8 @@ This is a **React.js-based Resume Application** created by **Lakshmi Prasanna Da
 **Name:** Lakshmi Prasanna Dara  
 **Email:** prasannadara17@gmail.com  
 **Location:** Hyderabad, India  
-**LinkedIn:** 
-**GitHub:**   
+**LinkedIn:**  https://www.linkedin.com/in/lakshmi-prasanna-dara-a76269281/
+**GitHub:** https://github.com/Prasannadara17
 
 ## 📌 Features
 ✅ A clean, responsive resume layout with a structured format.  
